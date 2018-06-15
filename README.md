@@ -12,6 +12,10 @@ To this end, we will develop a process to assess the comprehensiveness and quali
 
 Publications
 
+Cesare N, Grant C, Hawkins JB, Brownstein JS, Nsoesie EO. Demographics in Social Media Data for Public Health Research: Does it matter?. arXiv preprint arXiv:1710.11048. 2017 Oct 30.
+
+Cesare N, Grant C, Nsoesie EO. Detection of User Demographics on Social Media: A Review of Methods and Recommendations for Best Practices. arXiv preprint arXiv:1702.01807. 2017 Feb 6.
+
 Henly S, Tuli G, Kluberg S, Hawkins JB, Nguyen Q, Anema A, Maharana A, Brownstein JS, Nsoesie EO. Disparities in Digital Reporting of Illness: A Demographic and Socioeconomic Assessment. Preventive Medicine. 2017;101:18-22.
 
 Nsoesie EO, Flor LS, Maharana A, Hawkins JB, Skotnes T, Marinho F, Brownstein JS. Social Media as a Sentinel for Dengue Surveillance: what does sociodemographic status have to do with it? Plos Currents Outbreaks. 2016;8. doi: 10.1371/currents.outbreaks.cc09a42586e16dc7dd62813b7ee5d6b6.
@@ -19,8 +23,10 @@ Nsoesie EO, Flor LS, Maharana A, Hawkins JB, Skotnes T, Marinho F, Brownstein JS
 
 
 Code 
+
 Coming soon ... 
 
 
 Funding
+
 Robert Wood Johnson Foundation
