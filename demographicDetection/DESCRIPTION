@@ -1,0 +1,37 @@
+Package: demographicDetection
+Title: Predicts the age and gender of unlabeled Twitter users
+Version: 0.0.0.9000
+Authors@R: person("Nina", "Cesare", email = "nlcesare@gmail.com", role = c("aut", "cre"))
+Description: Predict the age and gender of Twitter users. Function input is profile metadata gathered via the Twitter API. Outputs contain dataframes of user IDs and prediction values. 
+Depends: R (>= 3.3.2)
+License: file LICENSE
+Name:
+Abbrev:
+OSI: open (https://opensource.org/licenses/MIT)
+File: share/licenses/MIT
+URL: https://opensource.org/licenses/mit-license.php
+FOSS: yes
+Extensible: yes
+Encoding: UTF-8
+LazyData: true
+Imports:
+    caret,
+    CORElearn,
+    data.table,
+    e1071,
+    gdata,
+    gender,
+    httr,
+    MASS,
+    NLP,
+    openNLP,
+    sentimentr,
+    SnowballC,
+    stringr,
+    randomForest,
+    readr,
+    ROAuth,
+    tm,
+    topicmodels,
+    twitteR
+RoxygenNote: 6.1.0.9000
